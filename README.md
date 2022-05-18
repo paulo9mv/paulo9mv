@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a front-end developer and chess player. Feel free to add me on [lichess](https://lichess.org/@/paulo9mv) :)
+
+This README summarize my Github profile to make it easier for navigation
+
+## React
+
+
 <!--
 **paulo9mv/paulo9mv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
