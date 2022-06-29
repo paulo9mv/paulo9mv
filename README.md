@@ -9,7 +9,7 @@ Here are the projects that I'm most proud of. Please take a look and feel free t
 - [Chess Analysis](https://github.com/paulo9mv/chess): A page that allows you to enter a PGN file and get a chess report analysis of that match.
 - [Bitcoin React](https://github.com/paulo9mv/bitcoin_react): A page that shows you current bitcoin (BTC) price in dollars (USD).
 
-# React Native
+## React Native
 - [Star Wars App](https://github.com/paulo9mv/starwars): An app that shows information about Star Wars universe.
 
 ## C
