@@ -6,6 +6,11 @@ Welcome to the amazing world of my Github profile. I'm a front-end developer and
 
 Here are the projects that I'm most proud of. Please take a look and feel free to give any suggestions.
 
+## Articles written on Medium
+- [How to configure SMTP client on Flutter](https://medium.com/flutter-comunidade-br/como-configurar-um-servidor-smtp-e-enviar-e-mails-com-flutter-7ce33c2d068b) (in Portuguese :brazil:)
+- [How to update NodeJS on Ubuntu 20.04](https://paulo9mv.medium.com/como-atualizar-o-nodejs-no-ubuntu-20-04-utilizando-nvm-5f2bb0a43e62) (in Portuguese :brazil:)
+
+
 ## React
 
 - [Chess Analysis](https://github.com/paulo9mv/chess): A page that allows you to enter a PGN file and get a chess report analysis of that match.
