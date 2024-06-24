@@ -1,5 +1,3 @@
-WIP :warning:
-
 ### Hi there 👋
 
 Welcome to the amazing world of my Github profile. I'm a front-end developer and chess player. Feel free to add me on [lichess](https://lichess.org/@/paulo9mv) :)
