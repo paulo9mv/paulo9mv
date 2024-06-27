@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to the amazing world of my Github profile. I'm a front-end developer and chess player. Feel free to add me on [lichess](https://lichess.org/@/paulo9mv) :)
+I'm a front-end developer and chess player. Feel free to add me on [lichess](https://lichess.org/@/paulo9mv) :)
 
 Here are the projects that I'm most proud of. Please take a look and feel free to give any suggestions.
 
