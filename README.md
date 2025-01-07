@@ -22,6 +22,7 @@ Here are the projects that I'm most proud of. Please take a look and feel free t
 
 ## Github Actions
 - [Release Notes Generator](https://github.com/paulo9mv/release-notes): A github workflow/action that generate release notes and comments on each PR included.
+- [Announcement Pull Request](https://github.com/paulo9mv/announcement_pull_request): A github action that adds a custom comment in all open PRs.
 
 ## Vue
 - [ChessKid](https://github.com/paulo9mv/vue): ChessKid clone interface made in Vue.JS
